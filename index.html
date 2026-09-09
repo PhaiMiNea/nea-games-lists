@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Nea Game Lists</title>
+    <link rel="icon" href="https://img.icons8.com/fluent/1200/pc-games.jpg" type="image/jpg">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <div class="header-left">
+                <h1>🎮 Nea Game Lists</h1>
+                <span class="count" id="totalCount">0 games</span>
+            </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="filters">
+            <input type="text" id="searchInput" placeholder="🔍 Search games..." />
+            <select id="yearFilter">
+                <option value="all">All Years</option>
+            </select>
+            <select id="tagFilter">
+                <option value="all">All Genres</option>
+            </select>
+            <button class="clear-btn" id="clearBtn">✕ Clear Filters</button>
+            <span class="results-count" id="resultsCount">Showing <strong>0</strong> games</span>
+        </div>
+
+        <!-- Grid -->
+        <div class="games-grid" id="gamesGrid">
+            <div class="empty-state">
+                <span class="icon">🎯</span>
+                <h3>No Games Found</h3>
+                <p>Try adjusting your filters</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Floating selection button -->
+    <button class="selection-fab" id="selectionFab" aria-label="View selected games">
+        🛒
+        <span class="fab-badge" id="fabBadge">0</span>
+    </button>
+
+    <!-- Selection panel -->
+    <div class="selection-panel" id="selectionPanel">
+        <div class="selection-panel-header">
+            <h3>Selected Games</h3>
+            <div class="panel-header-actions">
+                <button class="panel-clear-btn" id="panelClearBtn">Clear All</button>
+                <button class="panel-close-btn" id="panelCloseBtn">✕</button>
+            </div>
+        </div>
+        <div class="selection-panel-list" id="selectionPanelList">
+            <div class="selection-empty">No games selected yet</div>
+        </div>
+        <div class="selection-panel-footer">
+            <span>Total size</span>
+            <strong id="totalSizeDisplay">0 GB</strong>
+        </div>
+        <button class="copy-btn" id="copyBtn">📋 Copy List</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
