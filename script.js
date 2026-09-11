@@ -4,6 +4,14 @@
 // ============================================================
 const GAMES = [
     {
+    title: 'Halloween: The Game',
+    poster: 'https://i6.imageban.ru/out/2026/09/06/21b35933e890d6edb75b8d5bcb46c84d.jpg',
+    size: '28.2 GB',
+    date: '06/09/2026',
+    tags: 'Action, 3D, Horror',
+    url: 'https://fitgirl-repacks.site/halloween-the-game/'
+},
+    {
     title: 'Bus Simulator 27',
     poster: 'https://i3.imageban.ru/out/2026/09/06/b5d03c6697c15d499790dda313cffb5b.jpg',
     size: '16.8 GB',
