@@ -4,6 +4,14 @@
 // ============================================================
 const GAMES = [
     {
+    title: 'Project Motor Racing',
+    poster: 'https://i2.imageban.ru/out/2025/11/26/b1688939fafa9a22b14765b0e2d122dd.jpg',
+    size: '26.4 GB',
+    date: '27/06/2026',
+    tags: 'Racing, Simulation, Physics-based, First-person, Third-person, 3D',
+    url: 'https://fitgirl-repacks.site/project-motor-racing/'
+},
+    {
     title: 'Halloween: The Game',
     poster: 'https://i6.imageban.ru/out/2026/09/06/21b35933e890d6edb75b8d5bcb46c84d.jpg',
     size: '28.2 GB',
