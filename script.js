@@ -4,6 +4,14 @@
 // ============================================================
 const GAMES = [
     {
+    title: 'BLACKWOOD: Supporter Edition',
+    poster: 'https://i6.imageban.ru/out/2026/09/17/6b57217f92db2f4ca343f7bb91d220d9.jpg',
+    size: '10.8 GB',
+    date: '18/09/2026',
+    tags: 'Action, Shooter, Third-person, 3D',
+    url: 'https://fitgirl-repacks.site/blackwood/'
+},
+    {
     title: 'Project Motor Racing',
     poster: 'https://i2.imageban.ru/out/2025/11/26/b1688939fafa9a22b14765b0e2d122dd.jpg',
     size: '26.4 GB',
