@@ -4,6 +4,14 @@
 // ============================================================
 const GAMES = [
     {
+    title: 'Dune: Awakening – Ultimate Edition',
+    poster: 'https://i7.imageban.ru/out/2026/09/19/606f99d7476a3733ee3f696821ba2d7d.jpg',
+    size: '36.6 GB',
+    date: '19/09/2026',
+    tags: 'Action, Survival, Third-person, 3D',
+    url: 'https://fitgirl-repacks.site/dune-awakening/'
+},
+    {
     title: 'BLACKWOOD: Supporter Edition',
     poster: 'https://i6.imageban.ru/out/2026/09/17/6b57217f92db2f4ca343f7bb91d220d9.jpg',
     size: '10.8 GB',
