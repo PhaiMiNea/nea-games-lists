@@ -4,6 +4,14 @@
 // ============================================================
 const GAMES = [
     {
+    title: 'Euro Truck Simulator 2 + 103 DLCs',
+    poster: 'https://i1.imageban.ru/out/2023/10/21/b40deca1731b010fe2cfaee4489bc40f.jpg',
+    size: '32.3 GB',
+    date: '29/11/2025',
+    tags: 'Driving, Simulation, Open world, 3D',
+    url: 'https://fitgirl-repacks.site/euro-truck-simulator-2/'
+},
+    {
     title: 'Dune: Awakening – Ultimate Edition',
     poster: 'https://i7.imageban.ru/out/2026/09/19/606f99d7476a3733ee3f696821ba2d7d.jpg',
     size: '36.6 GB',
