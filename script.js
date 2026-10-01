@@ -4,6 +4,22 @@
 // ============================================================
 const GAMES = [
     {
+    title: 'Cities: Skylines II – Ultimate Edition + 19 DLCs',
+    poster: 'https://i7.imageban.ru/out/2023/10/26/fdc5933d4e9c0bd013b2612ef7804156.jpg',
+    size: '75.8 GB',
+    date: '01/11/2025',
+    tags: 'Managerial, Strategy, Isometric, 3D, Real-time',
+    url: 'https://fitgirl-repacks.site/cities-skylines-2/'
+},
+    {
+    title: 'Cities: Skylines – Collection + 90 DLCs/Bonuses',
+    poster: 'https://i2.imageban.ru/out/2022/01/25/18041972c70cd19a11ac9c91d4574bce.jpg',
+    size: '9.9 GB',
+    date: '11/03/2026',
+    tags: 'Managerial, Strategy, 3D, Real-time',
+    url: 'https://fitgirl-repacks.site/cities-skylines-deluxe-edition/'
+},
+    {
     title: 'Euro Truck Simulator 2 + 103 DLCs',
     poster: 'https://i1.imageban.ru/out/2023/10/21/b40deca1731b010fe2cfaee4489bc40f.jpg',
     size: '32.3 GB',
