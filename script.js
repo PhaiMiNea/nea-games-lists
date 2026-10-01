@@ -4,6 +4,14 @@
 // ============================================================
 const GAMES = [
     {
+    title: 'JDM: Japanese Drift Master – Deluxe Edition + 3 DLCs',
+    poster: 'https://i8.imageban.ru/out/2025/05/22/90cbf4a9271c6d6e631eb1a3c939c47e.jpg',
+    size: '20 GB',
+    date: '29/06/2026',
+    tags: 'Driving, Racing, First-person, Third-person, 3D',
+    url: 'https://fitgirl-repacks.site/jdm-japanese-drift-master/'
+},
+    {
     title: 'Cities: Skylines II – Ultimate Edition + 19 DLCs',
     poster: 'https://i7.imageban.ru/out/2023/10/26/fdc5933d4e9c0bd013b2612ef7804156.jpg',
     size: '75.8 GB',
