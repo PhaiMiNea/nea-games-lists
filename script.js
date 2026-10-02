@@ -4,6 +4,14 @@
 // ============================================================
 const GAMES = [
     {
+    title: 'American Truck Simulator + 65 DLCs',
+    poster: 'https://i5.imageban.ru/out/2021/09/08/5bfd2cfa91af45de8e0655218fe02af9.jpg',
+    size: '25.4 GB',
+    date: '25/09/2026',
+    tags: 'Driving, First-person, Third-person, 3D',
+    url: 'https://fitgirl-repacks.site/american-truck-simulator/'
+},
+    {
     title: 'JDM: Japanese Drift Master – Deluxe Edition + 3 DLCs',
     poster: 'https://i8.imageban.ru/out/2025/05/22/90cbf4a9271c6d6e631eb1a3c939c47e.jpg',
     size: '20 GB',
